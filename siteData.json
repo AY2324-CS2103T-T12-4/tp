@@ -9,6 +9,7 @@
         "project-team": "Project team",
         "darren-low": "Darren Low",
         "kim-hanjoo": "Kim Hanjoo",
+        "adam-ang-zi-jun": "Adam Ang Zi Jun",
         "lin-yuxiang": "Lin Yuxiang",
         "johnny-doe": "Johnny Doe"
       },
@@ -114,7 +115,7 @@
         "adding-medical-records-addrecord": "Adding Medical Records : 'addrecord'",
         "listing-all-persons-view": "Listing all persons : view",
         "view-patient-detail": "View patient detail",
-        "editing-a-person-edit": "Editing a person : edit",
+        "editing-detail-of-a-patient-editdetail": "Editing detail of a patient : editdetail",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-patient-delete": "Deleting a patient : delete",
         "pinning-a-patient-pin": "Pinning a patient : pin",
@@ -134,6 +135,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/adammangzijun.md",
+      "title": "Adam's Project Portfolio Page",
+      "headings": {
+        "project-medbook": "Project: MedBook"
       },
       "headingKeywords": {}
     },
