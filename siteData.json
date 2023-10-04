@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "darren-low": "Darren Low",
         "kim-hanjoo": "Kim Hanjoo",
-        "jane-doe": "Jane Doe",
+        "lin-yuxiang": "Lin Yuxiang",
         "johnny-doe": "Johnny Doe"
       },
       "headingKeywords": {}
@@ -112,7 +112,8 @@
         "viewing-help-help": "Viewing help : help",
         "adding-a-patient-addpatient": "Adding a patient: addpatient",
         "adding-medical-records-addrecord": "Adding Medical Records : 'addrecord'",
-        "listing-all-persons-list": "Listing all persons : list",
+        "listing-all-persons-view": "Listing all persons : view",
+        "view-patient-detail": "View patient detail",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-patient-delete": "Deleting a patient : delete",
@@ -133,6 +134,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/clin-lyx.md",
+      "title": "Lin Yuxiang's Project Portfolio Page",
+      "headings": {
+        "project-medbook": "Project Medbook"
       },
       "headingKeywords": {}
     },
