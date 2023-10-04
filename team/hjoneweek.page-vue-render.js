@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"content-wrapper"}},[_c('h1',{attrs:{"id":"configuration-guide"}},[_v("Configuration guide"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#configuration-guide","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("Certain properties of the application can be controlled (e.g user preferences file location, logging level) through the configuration file (default: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("config.json")]),_v(").")])])}
+with(this){return _c('div',{attrs:{"id":"content-wrapper"}},[_c('h3',{attrs:{"id":"project-medbook"}},[_v("Project: MedBook"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#project-medbook","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("Overview: To be added soon")]),_v(" "),_c('p',[_v("Contributions: To be added soon")]),_v(" "),_c('ul',[_c('li',[_c('p',[_c('strong',[_v("New Feature 1")])])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("New Feature 2")])])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Project management")])])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Documentation")])])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Community")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Wed, 4 Oct 2023, 14:33:11 GMT+8]")])])])}
