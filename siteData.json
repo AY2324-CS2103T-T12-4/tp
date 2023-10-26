@@ -51,6 +51,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "records-feature": "Records feature",
         "editpatient-feature": "editpatient Feature",
         "appointments-feature": "Appointments feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
