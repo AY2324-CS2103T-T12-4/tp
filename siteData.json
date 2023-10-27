@@ -56,6 +56,8 @@
         "appointments-feature": "Appointments feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "view-feature": "View feature",
+        "implemented-encryption-decryption-feature": "[Implemented] Encryption/Decryption Feature",
+        "attaching-files-to-patient-records": "Attaching Files to Patient Records",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
