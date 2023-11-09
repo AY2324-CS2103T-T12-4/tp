@@ -449,6 +449,6 @@ with(this){return _c('h4',{attrs:{"id":"input-mistakes"}},[_v("Input Mistakes"),
 with(this){return _c('ol',[_c('li',[_v("Test Case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ad John Doe; Age: 30; Address: 123 Main St")]),_v(" "),_c('ul',[_c('li',[_v("Expected: Error message displayed, suggesting the correct command format.")])])]),_v(" "),_c('li',[_v("Test Case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delet 1")]),_v(" "),_c('ul',[_c('li',[_v("Expected: Error message displayed, suggesting the correct command format.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 9 Nov 2023, 23:07:05 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Fri, 10 Nov 2023, 0:21:33 GMT+8]")])])])}
 }];
   
