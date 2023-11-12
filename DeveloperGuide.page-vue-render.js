@@ -821,6 +821,6 @@ with(this){return _c('h4',{attrs:{"id":"accepting-in-name-parameter"}},[_v("Acce
 with(this){return _c('p',[_c('strong',[_v("Patient Index Alignment")]),_v(": The Patient Index in "),_c('em',[_v("Pinned Patient")]),_v(" and "),_c('em',[_v("Person Being Viewed")]),_v(" will be aligned with the patient list, ensuring consistency with the displayed indices instead of using a One-Indexed list.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sun, 12 Nov 2023, 23:01:39 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sun, 12 Nov 2023, 23:02:38 GMT+8]")])])])}
 }];
   
