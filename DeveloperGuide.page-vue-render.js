@@ -734,7 +734,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Prerequisites: Ensure the patien
 with(this){return _c('h3',{attrs:{"id":"unpinning-a-patient-2"}},[_v("Unpinning a Patient"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#unpinning-a-patient-2","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("Prerequisites: Ensure the "),_c('strong',[_v("Pinned Patient List")]),_v(" contains the entry you wish to unpin.")])]),_v(" "),_c('li',[_c('p',[_v("Test Case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unpin 1")])]),_v(" "),_c('ul',[_c('li',[_v("Expected: Patient at index 1 of the "),_c('strong',[_v("Pinned Patient List")]),_v(" is unpinned and no longer displayed in the "),_c('strong',[_v("Pinned Patient List")]),_v(". Details shown in the status message.")])])]),_v(" "),_c('li',[_c('p',[_v("Test Case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unpin x")]),_v(" (where x > list size)")]),_v(" "),_c('ul',[_c('li',[_v("Expected: Error message displayed, "),_c('strong',[_v("Pinned Patient List")]),_v(" unchanged.")])])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("Prerequisites: Ensure the pinned patient list contains the entry you wish to unpin.")])]),_v(" "),_c('li',[_c('p',[_v("Test Case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unpin 1")])]),_v(" "),_c('ul',[_c('li',[_v("Expected: Patient at index 1 of the "),_c('strong',[_v("Pinned Patient List")]),_v(" is unpinned and no longer displayed in the "),_c('strong',[_v("Pinned Patient List")]),_v(". Details shown in the status message.")])])]),_v(" "),_c('li',[_c('p',[_v("Test Case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unpin x")]),_v(" (where x > list size)")]),_v(" "),_c('ul',[_c('li',[_v("Expected: Error message displayed, "),_c('strong',[_v("Pinned Patient List")]),_v(" unchanged.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"searching-for-patients"}},[_v("Searching for Patients"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#searching-for-patients","onclick":"event.stopPropagation()"}})])}
@@ -944,6 +944,6 @@ with(this){return _c('ul',[_c('li',[_v("Despite the high complexity, the team ma
 with(this){return _c('h4',{attrs:{"id":"conclusion"}},[_v("Conclusion"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#conclusion","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 11:22:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 11:44:22 GMT+8]")])])])}
 }];
   
